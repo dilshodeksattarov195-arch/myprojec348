@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productvetch",
+        "uuid": 153120,
+        "checksum": "ox5hea"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
